@@ -6,8 +6,9 @@
 - 👀 I’m interested in web development, machine learning, Game Development, AI, and open-source projects.
 - 🌱 I’m currently learning Python, HTML, CSS, and Javascript.
 - 💞️ I want to collaborate on web development projects and data science initiatives.
-- 📫 How to reach me:
-- <br/>
+- 📫 How to reach me: yasminyasser068@gmail.com
+  
+  <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
