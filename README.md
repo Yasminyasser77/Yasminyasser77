@@ -6,6 +6,7 @@
 - 👀 I’m interested in data analysis, machine learning, AI, and open-source projects.
 - 🌱 I’m building a solid foundation in data analysis using Python, with hands-on experience in core libraries like NumPy, Pandas, Seaborn, and Matplotlib
 - 💞️I’m looking to collaborate on data analysis projects and support data science efforts within a team environment.
+- I’m currently learning SQL and Power BI for data visualization to strengthen my data analysis skills.
 - 📫 How to reach me: yasminyasser068@gmail.com
   
   <br/>
