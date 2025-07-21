@@ -3,9 +3,9 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 👀 I’m interested in web development, machine learning, Game Development, AI, and open-source projects.
-- 🌱 I’m currently learning Python, HTML, CSS, and Javascript.
-- 💞️ I want to collaborate on web development projects and data science initiatives.
+- 👀 I’m interested in data analysis, machine learning, AI, and open-source projects.
+- 🌱 I’m building a solid foundation in data analysis using Python, with hands-on experience in core libraries like NumPy, Pandas, Seaborn, and Matplotlib
+- 💞️I’m looking to collaborate on data analysis projects and support data science efforts within a team environment.
 - 📫 How to reach me: yasminyasser068@gmail.com
   
   <br/>
